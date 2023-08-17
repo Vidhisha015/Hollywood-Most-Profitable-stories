@@ -12,3 +12,6 @@ I made a dashboard analysing the following:
 5. The worldwide gross per genre
 6. Profitability by genre per year
 7. Profitability of films per year
+
+   ![PowerBI Dashboard__Vidhisha_A_Sinha_Hollywood_Movies_PS](https://github.com/Vidhisha015/Hollywood-Most-Profitable-stories/assets/142215081/b7f24c7e-8539-40db-a011-49b5bf5ba93e)
+
